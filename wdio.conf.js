@@ -15,7 +15,7 @@ exports.config = {
     'appium:app': 'storage:filename=LojaEBAC-sim.zip',
     'appium:orientation': 'PORTRAIT',
     'appium:newCommandTimeout': 240,
-    'appium:fullReset': true,
+    'appium:noReset': false,
     'sauce:options': {
       appiumVersion: '2.0.0',
       name: 'EBAC iOS Checkout Test',
