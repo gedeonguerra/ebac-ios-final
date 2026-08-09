@@ -1,5 +1,7 @@
 # EBAC iOS Tests - Módulo 29
 
+> Projeto de estudo/exercício de curso — incorporado como cobertura iOS em [ecommerce-test-automation-cicd/Mobile/iOS](https://github.com/gedeonguerra/ecommerce-test-automation-cicd/tree/main/Mobile/iOS). Mantido aqui apenas como registro histórico.
+
 Suíte de testes E2E para o app EBAC Store (iOS) usando WebdriverIO + Appium + SauceLabs.
 
 ## Fluxo testado
